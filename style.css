@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center; /* Tüm içerik ortalanır */
+}
+
+#game-title {
+    color: #40E0D0; /* Turkuaz rengi */
+    margin: 20px 0; /* Üst ve alt boşluklar */
+}
+
+#options {
+    display: flex;
+    justify-content: center; /* Şıkları ortalar */
+    margin: 20px 0;
+}
+
+button {
+    margin: 5px;
+    padding: 10px 15px;
+    font-size: 16px;
+}
+
+
+
+
+
+
+
+
