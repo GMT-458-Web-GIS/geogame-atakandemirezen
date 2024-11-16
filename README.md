@@ -3,7 +3,8 @@
 # COĞRAFİ ÜLKE BULMA OYUNU
 
 ## Game interface
-![image](https://github.com/user-attachments/assets/7f3f6979-1fb7-4bf3-943a-11beabf6fb69)
+![image](https://github.com/user-attachments/assets/a5b722b7-f62d-41e1-9cbd-eeefee7af31b)
+
 
 ## REQUIREMENTS
 HTML, CSS and JS.
@@ -13,11 +14,14 @@ HTML, CSS and JS.
 ### Answer Choices: Our players are given 4 answer choices and are asked to choose the correct one.
 ### Time Section  : Our player has exactly 100 seconds to answer 20 questions. However, each correct answer gives our player 2 seconds.
 ### Pause Section : If our player wants to stop the time, he can press the pause button. If he wants to start it again, he just presses the continue button.
+### Easy and Hard Mode : ![image](https://github.com/user-attachments/assets/ba37be97-035a-4ab6-9b46-31fdd040f3a1)
+### Game-Info Section : ![image](https://github.com/user-attachments/assets/8a72f97e-e5ff-4fbf-9967-c2c2ef8e9076)
+![image](https://github.com/user-attachments/assets/2e6267d1-0aa4-4c24-8eeb-bbe136cea217)
 
 
 ## FUTURE PLANS
 
-* One of the features I am currently working on is to bring a hard mode to the game. I am trying to bring a Hard mode (50 country estimate) for our players who are bored with the classic version of the game (20 country estimate) and want to move on to a more difficult stage.
+
 
 * Restart button will be added
 
