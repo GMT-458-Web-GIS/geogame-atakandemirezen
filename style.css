@@ -1,0 +1,88 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background: url('images/portal.png') no-repeat center center fixed;
+    background-size: cover; /* Görselin ekranı tamamen kaplamasını sağlar */
+    font-family: Arial, sans-serif;
+    color: white;
+    
+}
+
+#map {
+    height: 100%;
+}
+
+h1, #score, #timer {
+    color: white;
+}
+
+
+#game-title {
+    color: #40E0D0; /* Turkuaz rengi */
+    margin: 20px 0; /* Üst ve alt boşluklar */
+}
+
+#options {
+    display: flex;
+    justify-content: center; /* Şıkları ortalar */
+    margin: 20px 0;
+}
+
+button {
+    margin: 5px;
+    padding: 10px 15px;
+    font-size: 16px;
+}
+
+/* game-info.html için özel stil */
+#bilgiler {
+    background-color: #333; /* Koyu gri arka plan */
+    color: rgb(235, 21, 21); /* Beyaz yazı rengi */
+    padding: 20px; /* İç boşluk */
+    border-radius: 10px; /* Köşeleri yuvarlatma */
+    max-width: 600px; /* Maksimum genişlik */
+    margin: 20px auto; /* Ortalamak için */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); /* Gölgelendirme */
+}
+
+#bilgiler h2 {
+    color: #40E0D0; /* Turkuaz rengi */
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+h2, h3 {
+    color: #333;
+}
+
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+footer {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 14px;
+    color: #777;
+}
+
+
+#infoButton {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: #40E0D0; /* Turkuaz rengi */
+    border: none;
+    border-radius: 5px;
+    bottom: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#infoButton:hover {
+    background-color: #008C8C; /* Hover rengi */
+}
+
+
