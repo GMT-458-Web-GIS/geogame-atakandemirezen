@@ -5,7 +5,8 @@ https://gmt-458-web-gis.github.io/geogame-atakandemirezen/
 # ADAPTATION TO WORLD - GAME
 
 ## Game interface
-![image](https://github.com/user-attachments/assets/c66c1604-7faa-48f2-b261-cea7a1eafc30)
+![image](https://github.com/user-attachments/assets/1c02a9ff-ddb0-4a1d-9bdf-629dc184b10b)
+
 
 
 
