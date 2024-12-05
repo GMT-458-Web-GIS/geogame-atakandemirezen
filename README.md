@@ -5,7 +5,8 @@ https://gmt-458-web-gis.github.io/geogame-atakandemirezen/
 # ADAPTATION TO WORLD - GAME
 
 ## Game interface
-![image](https://github.com/user-attachments/assets/a5b722b7-f62d-41e1-9cbd-eeefee7af31b)
+![image](https://github.com/user-attachments/assets/c66c1604-7faa-48f2-b261-cea7a1eafc30)
+
 
 
 ## REQUIREMENTS
@@ -18,7 +19,8 @@ HTML, CSS and JS.
 ### Pause Section : If our player wants to stop the time, he can press the pause button. If he wants to start it again, he just presses the continue button.
 ### Easy and Hard Mode : ![image](https://github.com/user-attachments/assets/ba37be97-035a-4ab6-9b46-31fdd040f3a1)
 ### Game-Info Section : ![image](https://github.com/user-attachments/assets/8a72f97e-e5ff-4fbf-9967-c2c2ef8e9076)
-![image](https://github.com/user-attachments/assets/2e6267d1-0aa4-4c24-8eeb-bbe136cea217)
+![image](https://github.com/user-attachments/assets/86fa5aac-9cf1-4341-a3a0-ea55173d5b68)
+
 
 
 ## FUTURE PLANS
