@@ -21,13 +21,12 @@ HTML, CSS and JS.
 ### Easy and Hard Mode : ![image](https://github.com/user-attachments/assets/ba37be97-035a-4ab6-9b46-31fdd040f3a1)
 ### Game-Info Section : ![image](https://github.com/user-attachments/assets/ea688f9e-a31a-4b78-b33e-adf2124fde62)
 
-![image](https://github.com/user-attachments/assets/86fa5aac-9cf1-4341-a3a0-ea55173d5b68)
+![image](https://github.com/user-attachments/assets/f787f0d6-ede1-4e38-93b6-5ee5d4eed1df)
+
 
 
 
 ## FUTURE PLANS
-
-* Restart button will be added
 
 * Misunderstood countries will be introduced at the end of the game with visuals and information lines if desired.
 
