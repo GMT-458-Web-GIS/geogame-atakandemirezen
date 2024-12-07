@@ -19,8 +19,11 @@ HTML, CSS and JS.
 ### Answer Choices: Our players are given 4 answer choices and are asked to choose the correct one.
 ### Time Section  : Our player has exactly 100 seconds to answer the questions. However, each correct answer gives our player 2 seconds.
 ### Pause Section : If our player wants to stop the time, he can press the pause button. If he wants to start it again, he just presses the continue button.
-### Normal and Hard Mode : ![image](https://github.com/user-attachments/assets/ba37be97-035a-4ab6-9b46-31fdd040f3a1)
-### Game-Info Section : ![image](https://github.com/user-attachments/assets/ea688f9e-a31a-4b78-b33e-adf2124fde62)
+### Normal and Hard Mode : ![image](https://github.com/user-attachments/assets/188c50c5-0f64-494a-b233-e8861eb2ac68) , ![image](https://github.com/user-attachments/assets/c835515d-2e41-401f-ba9b-5d7a0c76bf35)
+
+
+### Game-Info Section : ![image](https://github.com/user-attachments/assets/088b2da5-64ae-4c96-9dd9-03364265b1db)
+
 
 ![image](https://github.com/user-attachments/assets/f787f0d6-ede1-4e38-93b6-5ee5d4eed1df)
 
