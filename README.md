@@ -43,3 +43,5 @@ HTML, CSS and JS.
 * Implementing event handlers for button clicks and game mechanics.
 
 * Using JavaScript for DOM manipulation and implementing dynamic game logic.
+
+  https://chatgpt.com/share/67549a5d-b580-8006-8af9-18db283daf7a
