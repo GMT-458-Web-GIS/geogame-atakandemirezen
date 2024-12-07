@@ -1,0 +1,206 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background: url('images/portal.png') no-repeat center center fixed;
+    background-size: cover; /* Görselin ekranı tamamen kaplamasını sağlar */
+    font-family: Arial, sans-serif;
+    color: white;
+    
+}
+
+#map {
+    height: 100%;
+}
+
+h1, #score, #timer {
+    color: white;
+}
+
+
+#game-title {
+    color: #40E0D0; 
+    margin: 20px 0; 
+}
+
+#options {
+    display: flex;
+    justify-content: center; 
+    margin: 20px 0;
+}
+
+button {
+    margin: 5px;
+    padding: 10px 15px;
+    font-size: 16px;
+}
+
+/* game-info.html için özel stil */
+#bilgiler {
+    background-color: #333; /* Koyu gri arka plan */
+    color: rgb(235, 21, 21); /* Beyaz yazı rengi */
+    padding: 20px; /* İç boşluk */
+    border-radius: 10px; /* Köşeleri yuvarlatma */
+    max-width: 600px; /* Maksimum genişlik */
+    margin: 20px auto; /* Ortalamak için */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); /* Gölgelendirme */
+}
+
+#bilgiler h2 {
+    color: #40E0D0; 
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+h2, h3 {
+    color: #333;
+}
+
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+footer {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 14px;
+    color: #777;
+}
+
+#map {
+    width: 1000px; /* Genişlik sabit 1000 piksel */
+    max-width: 90%; /* Küçük ekranlarda esneklik */
+    height: 500px; /* Yükseklik sabit kalıyor */
+    margin: 0 auto; /* Ortalanması için */
+}
+
+#infoButton {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: #40E0D0; /* Turkuaz rengi */
+    border: none;
+    border-radius: 5px;
+    bottom: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#infoButton:hover {
+    background-color: #008C8C; /* Hover rengi */
+}
+
+/* Oyun Sona Erdi Sayfası */
+.game_over-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+}
+
+.game_over-container h1 {
+    font-size: 3em;
+    margin: 0;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+
+.game_over-container p {
+    font-size: 1.5em;
+    margin: 15px 0;
+    line-height: 1.6;
+}
+
+.game_over-container button {
+    font-size: 1.2em;
+    padding: 10px 20px;
+    margin-top: 15px;
+    border: none;
+    border-radius: 25px;
+    background-color: #ff4757;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.game_over-container button:hover {
+    background-color: #ff6b81;
+}
+
+.game_over-container button:active {
+    transform: scale(0.95);
+}
+
+#capital-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+}
+
+#capital-container h1 {
+    font-size: 3em;
+    margin: 0;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+
+#capital-container p {
+    font-size: 1.5em;
+    margin: 15px 0;
+    line-height: 1.6;
+}
+
+#capital-container button {
+    font-size: 1.2em;
+    padding: 10px 20px;
+    margin-top: 15px;
+    border: none;
+    border-radius: 25px;
+    background-color: #ff4757;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+#capital-container button:hover {
+    background-color: #ff6b81;
+}
+
+#capital-container button:active {
+    transform: scale(0.95);
+}
+.btn {
+    display: inline-block;
+    padding: 12px 25px;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #f15e5e;
+    background: white;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.btn:hover {
+    background: #ffdede;
+    color: #d95353;
+    transform: translateY(-3px);
+}
+
+.centered {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #ffecec;
+}
+
