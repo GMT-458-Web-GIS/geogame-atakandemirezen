@@ -30,8 +30,16 @@ HTML, CSS and JS.
 
 
 
-## FUTURE PLANS
+## HOW DID I GET HELP FROM ARTIFICIAL INTELLIGENCE?    
 
-* Misunderstood countries will be introduced at the end of the game with visuals and information lines if desired.
+* Developing the Country Guessing Game with features like map integration, difficulty levels, a scoring system, and a timer.
 
-* Interface will be developed
+* Structuring and designing game pages (e.g., capital_question.html, game_over.html).
+
+* Styling with CSS to center content on the screen and improve visual appeal.
+
+* Code Refinement and Aesthetics
+
+* Implementing event handlers for button clicks and game mechanics.
+
+* Using JavaScript for DOM manipulation and implementing dynamic game logic.
