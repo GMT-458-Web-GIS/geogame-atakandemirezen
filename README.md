@@ -22,7 +22,8 @@ HTML, CSS and JS.
 ### Normal and Hard Mode : ![image](https://github.com/user-attachments/assets/188c50c5-0f64-494a-b233-e8861eb2ac68) , ![image](https://github.com/user-attachments/assets/c835515d-2e41-401f-ba9b-5d7a0c76bf35)
 
 
-### Game-Info Section : ![image](https://github.com/user-attachments/assets/088b2da5-64ae-4c96-9dd9-03364265b1db)
+### Game-Info Section : ![image](https://github.com/user-attachments/assets/5dfcc9e6-5f7d-404c-810e-d2ab4cd0dea5)
+
 
 
 
