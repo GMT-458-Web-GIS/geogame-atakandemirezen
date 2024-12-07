@@ -25,11 +25,20 @@ HTML, CSS and JS.
 ### Game-Info Section : ![image](https://github.com/user-attachments/assets/5dfcc9e6-5f7d-404c-810e-d2ab4cd0dea5)
 
 
+## EVENT HANDLERS
 
+* Difficulty Selection Buttons (HTML IDs: easy and hard):
+  These buttons allow users to select the difficulty level (normal or hard). Once clicked, the difficulty level is set, the selection menu is hidden, and the game starts.
 
+* Pause Button (HTML ID: pauseButton):
+  Toggles the game between paused and active states. Updates the button's text to reflect the current state ("Pause" or "Continue") and disables or enables game interactions.
 
+* Answer Buttons for Country Options:
+  When a player selects an option (one of the country names), this handler checks whether the selected answer is correct or incorrect. It adjusts the score and moves to the next question or triggers the capital    question phase.
 
-
+* Capital Question Submission (HTML ID: submitAnswer):
+  When the player submits an answer for the capital question, this handler validates the answer. If correct, the player is redirected to the main game with their score intact; otherwise, the game ends.
+  
 
 ## HOW DID I GET HELP FROM ARTIFICIAL INTELLIGENCE?    
 
