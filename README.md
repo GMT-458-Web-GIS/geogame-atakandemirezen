@@ -5,7 +5,8 @@ https://gmt-458-web-gis.github.io/geogame-atakandemirezen/
 # ADAPTATION TO WORLD - GAME
 
 ## Game interface
-![image](https://github.com/user-attachments/assets/1c02a9ff-ddb0-4a1d-9bdf-629dc184b10b)
+![image](https://github.com/user-attachments/assets/2c8c96ec-1387-475e-82c6-a4c27a17a8dd)
+
 
 
 
@@ -18,7 +19,7 @@ HTML, CSS and JS.
 ### Answer Choices: Our players are given 4 answer choices and are asked to choose the correct one.
 ### Time Section  : Our player has exactly 100 seconds to answer the questions. However, each correct answer gives our player 2 seconds.
 ### Pause Section : If our player wants to stop the time, he can press the pause button. If he wants to start it again, he just presses the continue button.
-### Easy and Hard Mode : ![image](https://github.com/user-attachments/assets/ba37be97-035a-4ab6-9b46-31fdd040f3a1)
+### Normal and Hard Mode : ![image](https://github.com/user-attachments/assets/ba37be97-035a-4ab6-9b46-31fdd040f3a1)
 ### Game-Info Section : ![image](https://github.com/user-attachments/assets/ea688f9e-a31a-4b78-b33e-adf2124fde62)
 
 ![image](https://github.com/user-attachments/assets/f787f0d6-ede1-4e38-93b6-5ee5d4eed1df)
