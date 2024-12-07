@@ -25,7 +25,7 @@ HTML, CSS and JS.
 ### Game-Info Section : ![image](https://github.com/user-attachments/assets/088b2da5-64ae-4c96-9dd9-03364265b1db)
 
 
-![image](https://github.com/user-attachments/assets/f787f0d6-ede1-4e38-93b6-5ee5d4eed1df)
+
 
 
 
