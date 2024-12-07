@@ -17,7 +17,7 @@ HTML, CSS and JS.
 ### Score section :  The game continues until the time runs out and the players try to get the most points. (Each question is 10 points)
 ### Map Section :  There is a leaflet @OpenStreetMap map in the middle of our interface and our game is played on that screen.
 ### Answer Choices: Our players are given 4 answer choices and are asked to choose the correct one.
-### Time Section  : Our player has exactly 100 seconds to answer the questions. However, each correct answer gives our player 2 seconds.
+### Time Section  : Our player has exactly 100 seconds to answer the questions.
 ### Pause Section : If our player wants to stop the time, he can press the pause button. If he wants to start it again, he just presses the continue button.
 ### Normal and Hard Mode : ![image](https://github.com/user-attachments/assets/188c50c5-0f64-494a-b233-e8861eb2ac68) , ![image](https://github.com/user-attachments/assets/c835515d-2e41-401f-ba9b-5d7a0c76bf35)
 
