@@ -39,7 +39,7 @@ HTML, CSS and JS.
 * Capital Question Submission (HTML ID: submitAnswer):
   When the player submits an answer for the capital question, this handler validates the answer. If correct, the player is redirected to the main game with their score intact; otherwise, the game ends.
 
-  ## CLOSURES
+## CLOSURES
 
 * Timer Management: The startTimer function creates a closure over the timeLeft variable. The timer function inside setInterval has access to this variable, even though timeLeft is defined outside its local scope. This ensures that the countdown logic can continuously update the timer without exposing timeLeft globally.
 
