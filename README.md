@@ -38,7 +38,29 @@ HTML, CSS and JS.
 
 * Capital Question Submission (HTML ID: submitAnswer):
   When the player submits an answer for the capital question, this handler validates the answer. If correct, the player is redirected to the main game with their score intact; otherwise, the game ends.
-  
+
+  ## CLOSURES
+
+* Timer Management: The startTimer function creates a closure over the timeLeft variable. The timer function inside setInterval has access to this variable, even though timeLeft is defined outside its local scope. This ensures that the countdown logic can continuously update the timer without exposing timeLeft globally.
+
+* Answer Validation in Event Handlers: When generating the answer buttons for country options, each button’s event listener captures the option variable in a closure. This ensures that each button "remembers" which option it represents when clicked.
+
+* Score Preservation During Redirection: When transitioning from the capital question page back to the main game, the score is passed and preserved using local storage. This is a practical application of the closure concept, where functions indirectly benefit from the encapsulated variable (currentScore) through the browser’s storage mechanisms.
+
+## DOM
+
+ * Dynamically Updating Content: Each time a new question was generated, the DOM was updated with the new country name or capital question. This was achieved by setting the innerText property of relevant HTML elements. 
+ * Timer and Score: The timer and score were dynamically updated using the innerText property of DOM elements. ![image](https://github.com/user-attachments/assets/07a3e378-3212-472b-a24c-5c3d9afb2d35)
+
+ * Answer Buttons: For each question, answer buttons were dynamically created, added to the DOM, and linked to event handlers for user interaction. ![image](https://github.com/user-attachments/assets/a0b68694-29d5-4e0f-82f0-effe39e04299)
+
+* Capital Question Input: User inputs for the capital question were captured using the value property of input elements. ![image](https://github.com/user-attachments/assets/0c7e205f-02d5-437e-912c-3fb0254ae60b)
+
+* Dynamic Element Creation: ew elements like buttons and input fields were created and appended to the DOM as needed. This allowed the game to dynamically change content based on the game state.
+  ![image](https://github.com/user-attachments/assets/0a49fc3f-2c5d-4ccb-a030-9aaa6b2ccde9)
+
+* Changing Visibility: Some elements, like the difficulty selection menu, were shown or hidden based on the game state by updating their style.display property.![image](https://github.com/user-attachments/assets/3e8e4a1f-f136-4b73-a5d9-a044695a93fa)
+
 
 ## HOW DID I GET HELP FROM ARTIFICIAL INTELLIGENCE?    
 
